@@ -1,1 +1,3 @@
 # USBtin
+
+HW версия USBtin
